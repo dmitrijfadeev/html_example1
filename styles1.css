@@ -1,0 +1,9 @@
+body {
+    font-size: 24px;
+}
+span.red {
+    color: rgb(8, 6, 6);
+}
+span.green {
+    color: rgb(5, 8, 5);
+}
